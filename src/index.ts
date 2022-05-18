@@ -32,7 +32,7 @@ const crawl = async (version: number) => {
         text: value.text,
         legendId: value.legendId,
         legendText: value.legendText,
-        Timestamp: `${ today.getDate() }.${ today.getMonth()+1 } ${ today.getHours() }:${ today.getMinutes() }Uhr`
+        Timestamp: `${ today.getDate() }.${ (today.getMonth()+1)<=9?"0":"" }${ today.getMonth()+1 } ${ today.getHours() }:${ today.getMinutes() }Uhr`
         } //Need the following: id; day; from; to; css; seats; customerSeats; configured; bookable; inPast; text; legendId; legendText; CurrentTimeOfCrawler
     });
 

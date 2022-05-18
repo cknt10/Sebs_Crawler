@@ -1,181 +1,5 @@
 [
   {
-    "id": "2022-05-18 12:15",
-    "day": "2022-05-18",
-    "from": "12:15",
-    "to": "13:00",
-    "css": "sb-not-bookable",
-    "seats": 8,
-    "customerSeats": 8,
-    "configured": true,
-    "bookable": true,
-    "inPast": true,
-    "text": "Vorbei",
-    "legendId": 5,
-    "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
-  },
-  {
-    "id": "2022-05-18 13:00",
-    "day": "2022-05-18",
-    "from": "13:00",
-    "to": "13:45",
-    "css": "sb-not-bookable",
-    "seats": 3,
-    "customerSeats": 3,
-    "configured": true,
-    "bookable": true,
-    "inPast": true,
-    "text": "Vorbei",
-    "legendId": 4,
-    "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
-  },
-  {
-    "id": "2022-05-18 13:45",
-    "day": "2022-05-18",
-    "from": "13:45",
-    "to": "14:30",
-    "css": "sb-not-bookable",
-    "seats": 5,
-    "customerSeats": 5,
-    "configured": true,
-    "bookable": true,
-    "inPast": true,
-    "text": "Vorbei",
-    "legendId": 4,
-    "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
-  },
-  {
-    "id": "2022-05-18 14:30",
-    "day": "2022-05-18",
-    "from": "14:30",
-    "to": "15:15",
-    "css": "sb-not-bookable",
-    "seats": 6,
-    "customerSeats": 6,
-    "configured": true,
-    "bookable": true,
-    "inPast": true,
-    "text": "Vorbei",
-    "legendId": 3,
-    "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
-  },
-  {
-    "id": "2022-05-18 15:15",
-    "day": "2022-05-18",
-    "from": "15:15",
-    "to": "16:00",
-    "css": "sb-not-bookable",
-    "seats": 8,
-    "customerSeats": 8,
-    "configured": true,
-    "bookable": true,
-    "inPast": true,
-    "text": "Vorbei",
-    "legendId": 4,
-    "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
-  },
-  {
-    "id": "2022-05-18 16:45",
-    "day": "2022-05-18",
-    "from": "16:45",
-    "to": "17:30",
-    "css": "sb-not-bookable",
-    "seats": 8,
-    "customerSeats": 8,
-    "configured": true,
-    "bookable": true,
-    "inPast": true,
-    "text": "Vorbei",
-    "legendId": 5,
-    "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
-  },
-  {
-    "id": "2022-05-18 17:30",
-    "day": "2022-05-18",
-    "from": "17:30",
-    "to": "18:15",
-    "css": "sb-not-bookable",
-    "seats": 8,
-    "customerSeats": 8,
-    "configured": true,
-    "bookable": true,
-    "inPast": true,
-    "text": "Vorbei",
-    "legendId": 3,
-    "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
-  },
-  {
-    "id": "2022-05-18 18:15",
-    "day": "2022-05-18",
-    "from": "18:15",
-    "to": "19:00",
-    "css": "sb-not-bookable",
-    "seats": 6,
-    "customerSeats": 6,
-    "configured": true,
-    "bookable": true,
-    "inPast": true,
-    "text": "Vorbei",
-    "legendId": 4,
-    "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
-  },
-  {
-    "id": "2022-05-18 19:00",
-    "day": "2022-05-18",
-    "from": "19:00",
-    "to": "19:45",
-    "css": "sb-not-bookable",
-    "seats": 5,
-    "customerSeats": 5,
-    "configured": true,
-    "bookable": true,
-    "inPast": true,
-    "text": "Vorbei",
-    "legendId": 3,
-    "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
-  },
-  {
-    "id": "2022-05-18 19:45",
-    "day": "2022-05-18",
-    "from": "19:45",
-    "to": "20:30",
-    "css": "sb-not-bookable",
-    "seats": 3,
-    "customerSeats": 3,
-    "configured": true,
-    "bookable": true,
-    "inPast": true,
-    "text": "Vorbei",
-    "legendId": 4,
-    "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
-  },
-  {
-    "id": "2022-05-18 20:30",
-    "day": "2022-05-18",
-    "from": "20:30",
-    "to": "21:15",
-    "css": "sb-not-bookable",
-    "seats": 10,
-    "customerSeats": 10,
-    "configured": true,
-    "bookable": true,
-    "inPast": true,
-    "text": "Vorbei",
-    "legendId": 4,
-    "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
-  },
-  {
     "id": "2022-05-19 12:15",
     "day": "2022-05-19",
     "from": "12:15",
@@ -189,7 +13,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-19 13:00",
@@ -205,7 +29,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-19 13:45",
@@ -221,7 +45,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-19 14:30",
@@ -237,7 +61,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-19 15:15",
@@ -253,7 +77,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-19 18:15",
@@ -269,7 +93,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-19 19:00",
@@ -285,7 +109,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-19 19:45",
@@ -301,7 +125,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-19 20:30",
@@ -317,7 +141,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-20 13:00",
@@ -333,7 +157,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-20 13:45",
@@ -349,7 +173,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-20 14:30",
@@ -365,7 +189,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-20 15:15",
@@ -381,7 +205,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-20 16:45",
@@ -397,7 +221,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-20 17:30",
@@ -413,7 +237,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-20 18:15",
@@ -429,7 +253,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-20 19:00",
@@ -445,7 +269,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-20 19:45",
@@ -461,7 +285,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-20 20:30",
@@ -477,7 +301,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-20 21:15",
@@ -493,7 +317,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-21 10:00",
@@ -509,7 +333,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-21 10:45",
@@ -525,7 +349,7 @@
     "text": "Surfkurs1 (Teil 1)",
     "legendId": 9,
     "legendText": "Surfkurs1 (Teil 1)",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-21 11:30",
@@ -541,7 +365,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-21 12:15",
@@ -557,7 +381,7 @@
     "text": "Surfkurs 1 (Teil 2)",
     "legendId": 17,
     "legendText": "Surfkurs 1 (Teil 2)",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-21 13:00",
@@ -573,7 +397,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-21 13:45",
@@ -589,7 +413,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-21 14:30",
@@ -605,7 +429,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-21 15:15",
@@ -621,7 +445,7 @@
     "text": "Privat",
     "legendId": 7,
     "legendText": "Privat",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-21 16:45",
@@ -637,7 +461,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-21 17:30",
@@ -653,7 +477,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-21 18:15",
@@ -669,7 +493,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-21 19:00",
@@ -685,7 +509,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-21 19:45",
@@ -701,7 +525,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-21 20:30",
@@ -717,7 +541,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-21 21:15",
@@ -733,7 +557,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-22 10:00",
@@ -749,7 +573,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-22 10:45",
@@ -765,7 +589,7 @@
     "text": "Surfkurs1 (Teil 1)",
     "legendId": 9,
     "legendText": "Surfkurs1 (Teil 1)",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-22 11:30",
@@ -781,7 +605,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-22 12:15",
@@ -797,7 +621,7 @@
     "text": "Surfkurs 1 (Teil 2)",
     "legendId": 17,
     "legendText": "Surfkurs 1 (Teil 2)",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-22 13:00",
@@ -813,7 +637,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-22 13:45",
@@ -829,7 +653,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-22 14:30",
@@ -845,7 +669,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-22 15:15",
@@ -861,7 +685,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-22 16:45",
@@ -877,7 +701,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-22 17:30",
@@ -893,7 +717,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-22 18:15",
@@ -909,7 +733,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-22 19:00",
@@ -925,7 +749,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-22 19:45",
@@ -941,7 +765,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-23 12:15",
@@ -957,7 +781,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-23 13:00",
@@ -973,7 +797,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-23 13:45",
@@ -989,7 +813,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-23 14:30",
@@ -1005,7 +829,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-23 15:15",
@@ -1021,7 +845,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-23 16:45",
@@ -1037,7 +861,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-23 17:30",
@@ -1053,7 +877,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-23 18:15",
@@ -1069,7 +893,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-23 19:00",
@@ -1085,7 +909,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-23 19:45",
@@ -1101,7 +925,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-23 20:30",
@@ -1117,7 +941,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-24 12:15",
@@ -1133,7 +957,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-24 13:00",
@@ -1149,7 +973,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-24 13:45",
@@ -1165,7 +989,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-24 14:30",
@@ -1181,7 +1005,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-24 15:15",
@@ -1197,7 +1021,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-24 16:45",
@@ -1213,7 +1037,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-24 17:30",
@@ -1229,7 +1053,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-24 18:15",
@@ -1245,7 +1069,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-24 19:00",
@@ -1261,7 +1085,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-24 19:45",
@@ -1277,7 +1101,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-24 20:30",
@@ -1293,7 +1117,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-25 12:15",
@@ -1309,7 +1133,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-25 13:00",
@@ -1325,7 +1149,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-25 13:45",
@@ -1341,7 +1165,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-25 14:30",
@@ -1357,7 +1181,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-25 15:15",
@@ -1373,7 +1197,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-25 16:45",
@@ -1389,7 +1213,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-25 17:30",
@@ -1405,7 +1229,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-25 18:15",
@@ -1421,7 +1245,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-25 19:00",
@@ -1437,7 +1261,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-25 19:45",
@@ -1453,7 +1277,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-25 20:30",
@@ -1469,7 +1293,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-26 12:15",
@@ -1485,7 +1309,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-26 13:00",
@@ -1501,7 +1325,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-26 13:45",
@@ -1517,7 +1341,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-26 14:30",
@@ -1533,7 +1357,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-26 15:15",
@@ -1549,7 +1373,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-26 16:45",
@@ -1565,7 +1389,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-26 17:30",
@@ -1581,7 +1405,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-26 18:15",
@@ -1597,7 +1421,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-26 19:00",
@@ -1613,7 +1437,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-26 19:45",
@@ -1629,7 +1453,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-26 20:30",
@@ -1645,7 +1469,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-27 12:15",
@@ -1661,7 +1485,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-27 13:00",
@@ -1677,7 +1501,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-27 13:45",
@@ -1693,7 +1517,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-27 14:30",
@@ -1709,7 +1533,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-27 15:15",
@@ -1725,7 +1549,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-27 16:45",
@@ -1741,7 +1565,7 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-27 17:30",
@@ -1757,7 +1581,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-27 18:15",
@@ -1773,7 +1597,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-27 19:00",
@@ -1789,7 +1613,7 @@
     "text": "Einsteiger",
     "legendId": 3,
     "legendText": "Einsteiger",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-27 19:45",
@@ -1805,7 +1629,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-27 20:30",
@@ -1821,7 +1645,7 @@
     "text": "Fortgeschritten",
     "legendId": 4,
     "legendText": "Fortgeschritten",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
   },
   {
     "id": "2022-05-27 21:15",
@@ -1837,6 +1661,246 @@
     "text": "Pro",
     "legendId": 5,
     "legendText": "Pro",
-    "Timestamp": "18.5 23,58Uhr"
+    "Timestamp": "19.05 0:9Uhr"
+  },
+  {
+    "id": "2022-05-28 10:00",
+    "day": "2022-05-28",
+    "from": "10:00",
+    "to": "10:45",
+    "css": "sb-not-bookable",
+    "seats": 10,
+    "customerSeats": 10,
+    "configured": true,
+    "bookable": false,
+    "inPast": false,
+    "text": "Pro",
+    "legendId": 5,
+    "legendText": "Pro",
+    "Timestamp": "19.05 0:9Uhr"
+  },
+  {
+    "id": "2022-05-28 10:45",
+    "day": "2022-05-28",
+    "from": "10:45",
+    "to": "11:30",
+    "css": "sb-not-bookable",
+    "seats": 10,
+    "customerSeats": 10,
+    "configured": true,
+    "bookable": false,
+    "inPast": false,
+    "text": "Surfkurs1 (Teil 1)",
+    "legendId": 9,
+    "legendText": "Surfkurs1 (Teil 1)",
+    "Timestamp": "19.05 0:9Uhr"
+  },
+  {
+    "id": "2022-05-28 11:30",
+    "day": "2022-05-28",
+    "from": "11:30",
+    "to": "12:15",
+    "css": "sb-not-bookable",
+    "seats": 10,
+    "customerSeats": 10,
+    "configured": true,
+    "bookable": false,
+    "inPast": false,
+    "text": "Pro",
+    "legendId": 5,
+    "legendText": "Pro",
+    "Timestamp": "19.05 0:9Uhr"
+  },
+  {
+    "id": "2022-05-28 12:15",
+    "day": "2022-05-28",
+    "from": "12:15",
+    "to": "13:00",
+    "css": "sb-not-bookable",
+    "seats": 10,
+    "customerSeats": 10,
+    "configured": true,
+    "bookable": false,
+    "inPast": false,
+    "text": "Surfkurs 1 (Teil 2)",
+    "legendId": 17,
+    "legendText": "Surfkurs 1 (Teil 2)",
+    "Timestamp": "19.05 0:9Uhr"
+  },
+  {
+    "id": "2022-05-28 13:00",
+    "day": "2022-05-28",
+    "from": "13:00",
+    "to": "13:45",
+    "css": "sb-not-bookable",
+    "seats": 10,
+    "customerSeats": 10,
+    "configured": true,
+    "bookable": false,
+    "inPast": false,
+    "text": "Einsteiger",
+    "legendId": 3,
+    "legendText": "Einsteiger",
+    "Timestamp": "19.05 0:9Uhr"
+  },
+  {
+    "id": "2022-05-28 13:45",
+    "day": "2022-05-28",
+    "from": "13:45",
+    "to": "14:30",
+    "css": "sb-not-bookable",
+    "seats": 10,
+    "customerSeats": 10,
+    "configured": true,
+    "bookable": false,
+    "inPast": false,
+    "text": "Fortgeschritten",
+    "legendId": 4,
+    "legendText": "Fortgeschritten",
+    "Timestamp": "19.05 0:9Uhr"
+  },
+  {
+    "id": "2022-05-28 14:30",
+    "day": "2022-05-28",
+    "from": "14:30",
+    "to": "15:15",
+    "css": "sb-not-bookable",
+    "seats": 10,
+    "customerSeats": 10,
+    "configured": true,
+    "bookable": false,
+    "inPast": false,
+    "text": "Einsteiger",
+    "legendId": 3,
+    "legendText": "Einsteiger",
+    "Timestamp": "19.05 0:9Uhr"
+  },
+  {
+    "id": "2022-05-28 15:15",
+    "day": "2022-05-28",
+    "from": "15:15",
+    "to": "16:00",
+    "css": "sb-not-bookable",
+    "seats": 1,
+    "customerSeats": 1,
+    "configured": true,
+    "bookable": false,
+    "inPast": false,
+    "text": "Privat",
+    "legendId": 7,
+    "legendText": "Privat",
+    "Timestamp": "19.05 0:9Uhr"
+  },
+  {
+    "id": "2022-05-28 16:45",
+    "day": "2022-05-28",
+    "from": "16:45",
+    "to": "17:30",
+    "css": "sb-not-bookable",
+    "seats": 10,
+    "customerSeats": 10,
+    "configured": true,
+    "bookable": false,
+    "inPast": false,
+    "text": "Pro",
+    "legendId": 5,
+    "legendText": "Pro",
+    "Timestamp": "19.05 0:9Uhr"
+  },
+  {
+    "id": "2022-05-28 17:30",
+    "day": "2022-05-28",
+    "from": "17:30",
+    "to": "18:15",
+    "css": "sb-not-bookable",
+    "seats": 10,
+    "customerSeats": 10,
+    "configured": true,
+    "bookable": false,
+    "inPast": false,
+    "text": "Surfkurs2 (Teil 1)",
+    "legendId": 12,
+    "legendText": "Surfkurs2 (Teil 1)",
+    "Timestamp": "19.05 0:9Uhr"
+  },
+  {
+    "id": "2022-05-28 18:15",
+    "day": "2022-05-28",
+    "from": "18:15",
+    "to": "19:00",
+    "css": "sb-not-bookable",
+    "seats": 10,
+    "customerSeats": 10,
+    "configured": true,
+    "bookable": false,
+    "inPast": false,
+    "text": "Pro",
+    "legendId": 5,
+    "legendText": "Pro",
+    "Timestamp": "19.05 0:9Uhr"
+  },
+  {
+    "id": "2022-05-28 19:00",
+    "day": "2022-05-28",
+    "from": "19:00",
+    "to": "19:45",
+    "css": "sb-not-bookable",
+    "seats": 10,
+    "customerSeats": 10,
+    "configured": true,
+    "bookable": false,
+    "inPast": false,
+    "text": "Surfkurs 2 (Teil 2)",
+    "legendId": 18,
+    "legendText": "Surfkurs 2 (Teil 2)",
+    "Timestamp": "19.05 0:9Uhr"
+  },
+  {
+    "id": "2022-05-28 19:45",
+    "day": "2022-05-28",
+    "from": "19:45",
+    "to": "20:30",
+    "css": "sb-not-bookable",
+    "seats": 10,
+    "customerSeats": 10,
+    "configured": true,
+    "bookable": false,
+    "inPast": false,
+    "text": "Fortgeschritten",
+    "legendId": 4,
+    "legendText": "Fortgeschritten",
+    "Timestamp": "19.05 0:9Uhr"
+  },
+  {
+    "id": "2022-05-28 20:30",
+    "day": "2022-05-28",
+    "from": "20:30",
+    "to": "21:15",
+    "css": "sb-not-bookable",
+    "seats": 10,
+    "customerSeats": 10,
+    "configured": true,
+    "bookable": false,
+    "inPast": false,
+    "text": "Fortgeschritten",
+    "legendId": 4,
+    "legendText": "Fortgeschritten",
+    "Timestamp": "19.05 0:9Uhr"
+  },
+  {
+    "id": "2022-05-28 21:15",
+    "day": "2022-05-28",
+    "from": "21:15",
+    "to": "22:00",
+    "css": "sb-not-bookable",
+    "seats": 10,
+    "customerSeats": 10,
+    "configured": true,
+    "bookable": false,
+    "inPast": false,
+    "text": "Pro",
+    "legendId": 5,
+    "legendText": "Pro",
+    "Timestamp": "19.05 0:9Uhr"
   }
 ]
